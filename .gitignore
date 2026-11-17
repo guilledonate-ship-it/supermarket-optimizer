@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# --- No se publica en el repositorio público ---
+mundial_predictor/
+*_backup*.py
+index_backup_*.html
+Supermarket Optimizer API - Swagger UI*
+conectar_api.txt
+.vscode/
+test_dia.py
